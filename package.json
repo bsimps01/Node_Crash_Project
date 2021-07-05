@@ -4,7 +4,8 @@
   "description": "Node crash course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "Ben Simpson <Benjamin5311@aol.com> (https://www.makeschool.com/portfolio/ben-simpson)",
   "license": "MIT",
